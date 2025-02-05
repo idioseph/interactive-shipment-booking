@@ -1,6 +1,6 @@
-# Multi-Step Payment Form
+# Interactive Shipment Booking Form
 
-A modern, user-friendly React application featuring a multi-step payment processing system with real-time validation and card type detection. This project demonstrates best practices in form handling, input validation, and responsive design.
+A modern, user-friendly React application featuring a multi-step booking processing system with real-time validation and card type detection. This project demonstrates best practices in form handling, input validation, and responsive design.
 
 ## Features
 
